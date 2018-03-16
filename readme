@@ -1,4 +1,4 @@
-This little script & Automator utility enable quick switching between network adapters in MacOS.
+This little script & Automator utility enables quick switching between network adapters in MacOS.
 
 In order to get rid of password prompt when executing it, run visudo and then add this line:
 
