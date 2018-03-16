@@ -1,0 +1,5 @@
+This little script & Automator utility enable quick switching between network adapters in MacOS.
+
+In order to get rid of password prompt when executing it, run visudo and then add this line:
+
+ALL             ALL = (ALL) NOPASSWD: /usr/sbin/networksetup
